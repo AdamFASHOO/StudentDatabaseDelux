@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\Student Database using Lists.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\Student Database using Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\Student Database using Lists.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\Student Database using Lists.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\Student Database using Lists.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\bin\Debug\net6.0\Student Database using Lists.exe
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\bin\Debug\net6.0\Student Database using Lists.deps.json
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\bin\Debug\net6.0\Student Database using Lists.runtimeconfig.json
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\bin\Debug\net6.0\Student Database using Lists.dll
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\bin\Debug\net6.0\Student Database using Lists.pdb
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\Student Database using Lists.dll
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\refint\Student Database using Lists.dll
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\Student Database using Lists.pdb
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\Student Database using Lists.genruntimeconfig.cache
+C:\Users\Adam\source\repos\Student Database using Lists\Student Database using Lists\obj\Debug\net6.0\ref\Student Database using Lists.dll
